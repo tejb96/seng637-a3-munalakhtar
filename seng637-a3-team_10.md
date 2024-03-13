@@ -369,7 +369,7 @@ public void calculateColumnTotalForBUB() {
 
 - Condition/Method Coverage
 
-<img src="media/RangeMethodCoverageAfter.PNG" alt="Range Method Coverage After" />
+<img src=media/RangeMethodCoverageAfter.png alt="Range Method Coverage After" />
 
 ###DataUtilities Coverage - Before
 
